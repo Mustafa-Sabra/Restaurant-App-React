@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "pizza",
+      "count": 1,
+      "price": "80",
+      "isInCart": false,
+      "id": 2
+    },
+    {
+      "name": "Orange juice",
+      "id": 3,
+      "count": 1,
+      "price": "30",
+      "isInCart": false
+    },
+    {
+      "name": "pasta",
+      "id": 4,
+      "count": 1,
+      "price": "55",
+      "isInCart": false
+    }
+  ]
+}
